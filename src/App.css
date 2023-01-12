@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Mega Stone';
+    src: url('fonts/Mega-Stone.otf');
+    src: url('fonts/Mega-Stone.woff2') format('woff2'),
+}
+
+h1{
+    font-family: 'Mega Stone', 'Courier New', Courier, monospace;
+    font-size: 5rem;
+    color: #f09a20;
+    text-shadow: 10px 5px rgba(0, 0, 0, 0.67) ;
+    margin-bottom: 0;
+}
